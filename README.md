@@ -1,4 +1,4 @@
-## Inference-time WSG Algo
+## Inference-time Weight Space Gating Algorithm
 
 
 ### To run
